@@ -1,24 +1,10 @@
-# consulta-cep
+# Consulta automática por CEP
 
-## Project setup
-```
-yarn install
-```
+<p>Projeto para estudos em Vue</p>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Tecnologias
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- Vue
+- Sass
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
