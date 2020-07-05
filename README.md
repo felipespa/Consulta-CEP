@@ -6,5 +6,6 @@
 
 - Vue
 - Sass
+- Flexbox / Css Grid
 
 
